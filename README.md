@@ -1,2 +1,2 @@
 # probable-winner
-Let's make something cool!
+iOS app that makes every picture you take a winner
